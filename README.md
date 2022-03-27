@@ -1,2 +1,2 @@
-# Naverse
+# NaVerse
 Navana Universe
